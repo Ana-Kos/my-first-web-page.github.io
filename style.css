@@ -6,7 +6,7 @@ body{
 }
 
 h1 {
-	font-size: 35px;
+	font-size: 40px;
 	color: lightblue;
 	font-family: 'Sriracha', cursive;
 }
@@ -18,10 +18,22 @@ ul{
 	font-family: 'Sriracha', cursive;
 }
 
-h2,h4, h3 {
+h2 {
 	color: #FF8F7D;
 	font-size: 27px;
 	font-family: 'Sriracha', cursive;
+}
+
+h3 {
+  color: #FF8F7D;
+  font-size: 30px;
+  font-family: 'Sriracha', cursive;
+}
+
+h4, {
+  color: #FF8F7D;
+  font-size: 27px;
+  font-family: 'Sriracha', cursive;
 }
 
 .color-lightblue{
